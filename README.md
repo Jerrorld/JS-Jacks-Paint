@@ -1,0 +1,1 @@
+for viewable webpage visit https://jerrorld.github.io/JS-Jacks-Paint/
